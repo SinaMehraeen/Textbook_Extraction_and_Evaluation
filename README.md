@@ -118,13 +118,8 @@ The files are named `<book_id>_extracted.md` and saved in the output directory.
 3. **Evaluation**: Evaluates each extracted chapter against all rubric criteria
 4. **Output Generation**: Creates detailed markdown reports with evaluation tables
 
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-
 ## License
 
 MIT License - see LICENSE file for details.
+
 
